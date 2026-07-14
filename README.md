@@ -1,8 +1,10 @@
 # 💫 About Me:
-21-year-old self-taught developer 👨‍💻 specializing in backend automation ⚙️
-APIs 🔌
-and Generative AI 🤖
-I bridge technical complexity 🌉 with polished, minimalist design ✨.
+I am a 21-year-old self-taught developer and technical problem-solver specializing in automated backend systems, API integration, and advanced generative AI. My approach bridges the gap between raw technical capability and polished, user-facing products. I strongly favor a premium, minimalist design aesthetic—leveraging clean typography, high-contrast layouts, and intuitive structures.
+
+🌍 Based in: Dalian, Liaoning, China
+🧠 Focus: Web Development, Automation, and Prompt Engineering
+🗣️ Languages: English, Bengali, Mandarin Chinese (HSK 1 - Active Learner)
+⚽ Passions: Tech Innovation, High-End UI Design, and FC Barcelona
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/riology.fb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rio_logy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rio_logy) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rio_logy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rio_logy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reyadsrk00@gmail.com) 
